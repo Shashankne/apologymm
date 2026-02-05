@@ -1,0 +1,19 @@
+{
+  "name": "apology-website",
+  "version": "1.0.0",
+  "description": "A website to apologize and express commitment to improving a relationship.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "keywords": [
+    "apology",
+    "relationship",
+    "commitment"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
